@@ -1,5 +1,42 @@
 .App {
   text-align: center;
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.formulario-container {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  justify-content:flex-start;
+}
+
+.formulario {
+  display: flex;
+  justify-content:flex-start;
+  flex-direction: column;
+}
+
+.formulario-item {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.label {
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 5px;
+}
+
+.tabela {
+  margin-top: 25px;
+  margin-bottom: 25px;
+
 }
 
 .App-logo {
