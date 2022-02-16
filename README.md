@@ -19,7 +19,7 @@ Considerando que apenas essas duas entidades compõem o domínio da aplicação,
 
 ## 1. Frontend
 
-Existe uma estrutura inicial que pode ser utilizada para o desenvolvimento do frontend. Não foi instalada nenhuma depedência adicional além do React. Caso sinta necessidade, fique avontade para adicionar alguma biblioteca/depêndecia de sua preferência.
+Existe uma estrutura inicial que pode ser utilizada para o desenvolvimento do frontend. Não foi instalada nenhuma depedência adicional além do React. Caso sinta necessidade, fique a vontade para adicionar alguma biblioteca/depêndecia de sua preferência.
 
 Para iniciar o projeto entre na pasta /frontend e execute `npm install` para instalar as dependências. Após a instalação execute `npm start` para inicializar.
 
