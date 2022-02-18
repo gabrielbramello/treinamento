@@ -10,7 +10,7 @@ De uma forma simplificada, pode-se representar o relacionamento do Evento com o 
 
 Considerando que apenas essas duas entidades compõem o domínio da aplicação, realize as seguintes atividades:
 
-- Crie uma API Rest a partir da estrutura fornecida para realizar as operações de Select, Insert e Delete de um evento
+- Crie uma API Rest a partir da estrutura fornecida para realizar as operações de Select, Insert, Update e Delete de um evento
 - Crie um formulário para cadastrar essas informações utilizando a API criada. 
 - Consuma os Eventos através da API para exibi-los em uma tabela
 - Crie um botão na tabela para remoção de um Evento
