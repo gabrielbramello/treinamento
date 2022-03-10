@@ -86,7 +86,9 @@ Feito isso, crie um script com consultas que realizem as seguintes atividades:
     - Criar uma consulta que retorne os eventos cadastrados no mês anterior. OBS: independente de qual seja o período atual, sempre buscar o mês anterior, ou seja, não pode usar o filtro fixo "data_entrada = '01/2022' (exemplo); (2 pontos)
 ```
 
-Instruções
+<b>Ao finalizar o script sql, salve e coloque na raiz do projeto que será enviado.</b>
+
+## Instruções
 
 ```
     - A estrutura criada nesse repositório visa apenas facilitar a execução do projeto, porém é permitido criar uma nova caso sinta necessidade, desde que seja feito utilizando as mesmas tecnologias. 
