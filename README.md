@@ -30,7 +30,7 @@ O projeto está configurado para inicializar as tabelas do banco de dados para f
     - Implementar endpoint que realiza a criação de um evento;
     - Implementar endpoint que realiza a consulta de um evento pelo id;
     - Implementar endpoint que realiza a consulta de um evento pelo CPF;
-    - Implementar endpoint que realiza a consulta de um evento pelo tipo de evento;
+    - Implementar endpoint que realiza a alteração de um evento;
     - Implementar endpoint que altera o tipo de evento do evento;
     - Implementar endpoint que deleta um evento pelo id;
 ```
@@ -51,7 +51,7 @@ Para iniciar o projeto entre na pasta /frontend e execute `npm install` para ins
 - O que é esperado:
 
 ```
-    - Crie um formulário para cadastrar um evento utilizando a API criada;
+    - Crie um formulário para cadastrar/alterar um evento utilizando a API criada;
     - Consuma os Eventos através da API para exibi-los em uma tabela;
     - Crie um botão na tabela para remoção de um Evento;
 ```
@@ -74,7 +74,7 @@ values ('2200', 'Cadastramento Inicial do Vínculo e Admissão/Ingresso de Traba
 ('2399', 'Trabalhador Sem Vínculo de Emprego/Estatutário - Término');
 ~~~
 
-Feito isso, crie um script com consultas que realizem as seguintes atividades:
+Feito isso, crie um script com instruções sql que realizem as seguintes atividades:
 
 ```
     - Cadastrar 2 eventos na tabela "evento" do tipo S2200; (1 ponto)
@@ -95,6 +95,6 @@ Feito isso, crie um script com consultas que realizem as seguintes atividades:
     - Realize um fork do projeto ou crie um projeto novo em seu repositório.
     - Desenvolva as atividades descritas.
     - Ao término encaminhar um email para gabriel.mello@osm.com.br com o link do repositório remoto.
-    - Após o recebimento do teste você terá 5 dias corridos para a realização.
-    - Duvidas poderam ser tiradas a qualquer momento por e-mail, desde que não estejam fora de contexto. 
+    - Após o recebimento do teste você terá 5 dias corridos para a realização (15/03/2022 às 18h).
+    - Dúvidas poderão ser tiradas a qualquer momento por e-mail, desde que não estejam fora de contexto. 
 ```
